@@ -28,6 +28,8 @@
 <br>
  <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LXT2204&show_icons=true&locale=en&layout=compact" alt="hiumx" width="28%" /></p>
+
 <br>
 <div align=center>
  <a href="#" title="LXT2204">
