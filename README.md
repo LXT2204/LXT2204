@@ -22,6 +22,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=#68A063" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/SQL-282C34?logo=SQL&logoColor=#68A063" alt="SQL logo" title="SQL" height="25" /></span>
+&nbsp;
 <br>
  <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
