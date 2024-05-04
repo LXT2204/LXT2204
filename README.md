@@ -1,17 +1,23 @@
 <div align="center">
-    <img src="https://hits.sh/github.com/LXT2204/hits.svg?color=%23ffffffFF&extraCount=111111&label=Profile&labelColor=%2310b981FF&logo=youtubegaming&style=for-the-badge&view=total" />
+    <img src="https://visitcount.itsvg.in/api?id=LXT2204&label=&pretty=true" />
 </div>
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?color=timeGradient&type=waving&section=footer&fontColor=36bcf7ff&height=120&animation=fadeIn&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=&strokeWidth=0&text=L%C3%AA+Xu%C3%A2n+Th%E1%BA%A1ch&reversal=true&theme=tokyonight" alt="" />
 </div>
+<h3 align="left">
+    
+</h3>
 <div align="center"><img src="https://api.iconify.design/logos/facebook.svg" alt="logos:facebook" height="32" />
     <img width="10" />
     <img src="https://api.iconify.design/devicon/linkedin.svg" alt="devicon:linkedin" height="32" />
     <img width="10" />
     <img src="https://api.iconify.design/skill-icons/gmail-light.svg" alt="skill-icons:gmail-light" height="32" />
 </div>
+<h1 align="left">
+    
+</h1>
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?fontSize=20&repeat=true&multiline=false&duration=5000&color=%2336bcf7ff&background=%2300000000&pause=1000&width=50&height=50&font=Fira+Code&lines=Teachs&vCenter=true&size=20" alt="" />
+    <img src="https://readme-typing-svg.demolab.com?fontSize=20&repeat=false&multiline=false&duration=3000&color=%2336bcf7ff&background=%2300000000&pause=3000&width=140&height=50&font=Fira+Code&lines=%F0%9F%92%BB-Teachs&vCenter=true&size=20" alt="" />
 </div>
 <div align="center"><img src="https://api.iconify.design/devicon/html5.svg" alt="devicon:html5" height="40" />
     <img width="10" />
@@ -27,6 +33,8 @@
     <img width="10" />
     <img src="https://api.iconify.design/devicon/mysql-wordmark.svg" alt="devicon:mysql-wordmark" height="40" />
     <img width="10" />
+    <img src="https://api.iconify.design/skill-icons/expressjs-light.svg" alt="skill-icons:expressjs-light" height="40" />
+    <img width="10" />
     <img src="https://api.iconify.design/logos/oracle.svg" alt="logos:oracle" height="15" />
     <img width="10" />
     <img src="https://api.iconify.design/devicon/java.svg" alt="devicon:java" height="40" />
@@ -35,3 +43,28 @@
     <img width="10" />
     <img src="https://api.iconify.design/logos/docker-icon.svg" alt="logos:docker-icon" height="40" />
 </div>
+<h1 align="left">
+    
+</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?fontSize=20&repeat=false&multiline=false&duration=5000&color=%2336bcf7ff&background=%2300000000&pause=1000&width=180&height=50&font=Fira+Code&lines=%F0%9F%93%88Github+Stats&vCenter=true&size=20" alt="" />
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=LXT2204&theme=tokyonight&hide_border=true&show_icons=true&hide_title=false&disable_animations=false&hide_rank=false&rank_icon=default&hide=&show=&locale=EN" />
+</div>
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=LXT2204&theme=tokyonight&hide_border=true&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&mode=daily&locale=EN" />
+</div>
+<div align="center">
+    <img src="https://github-trophies.vercel.app?username=LXT2204&theme=tokyonight&title=MultiLanguage%2CLongTimeUser%2CNewUser%2CStars%2CFollowers%2CCommits%2CRepositories%2CIssues%2CPullRequest%2CAchieveSuperRank%2CAncientUser%2COrganizations&no-frame=true" />        
+</div>
+<h1 align="left">
+    
+</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?fontSize=20&repeat=false&multiline=false&duration=5000&color=%2336bcf7ff&background=%2300000000&pause=1000&width=140&height=50&font=Fira+Code&lines=%E2%9C%8D%EF%B8%8FDev+Quote&vCenter=true&size=20" alt="" />
+</div>
+<div align="center">
+      <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight&border=true&type=horizontal" alt="" />
+</div>
+
