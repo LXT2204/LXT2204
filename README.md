@@ -1,8 +1,8 @@
 <div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=LXT2204&label=&pretty=true" />
+    <img src="https://hits.sh/github.com/LXT2204/hits.svg?color=%23ffffffFF&extraCount=111111&label=Profile&labelColor=%2310b981FF&logo=youtubegaming&style=for-the-badge&view=total" />
 </div>
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?color=00000000&type=wave&section=header&fontColor=36bcf7ff&height=120&animation=twinkling&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=&strokeWidth=0&text=L%C3%AA+Xu%C3%A2n+Th%E1%BA%A1ch&reversal=true&theme=tokyonight" alt="" />
+    <img src="https://capsule-render.vercel.app/api?color=timeGradient&type=waving&section=footer&fontColor=36bcf7ff&height=120&animation=fadeIn&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=&strokeWidth=0&text=L%C3%AA+Xu%C3%A2n+Th%E1%BA%A1ch&reversal=true&theme=tokyonight" alt="" />
 </div>
 <div align="center"><img src="https://api.iconify.design/logos/facebook.svg" alt="logos:facebook" height="32" />
     <img width="10" />
@@ -27,7 +27,7 @@
     <img width="10" />
     <img src="https://api.iconify.design/devicon/mysql-wordmark.svg" alt="devicon:mysql-wordmark" height="40" />
     <img width="10" />
-    <img src="https://api.iconify.design/logos/oracle.svg" alt="logos:oracle" height="40" />
+    <img src="https://api.iconify.design/logos/oracle.svg" alt="logos:oracle" height="15" />
     <img width="10" />
     <img src="https://api.iconify.design/devicon/java.svg" alt="devicon:java" height="40" />
     <img width="10" />
