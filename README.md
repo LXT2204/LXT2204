@@ -7,7 +7,8 @@
 <h3 align="left">
     
 </h3>
-<div align="center"><img src="https://api.iconify.design/logos/facebook.svg" alt="logos:facebook" height="32" />
+<div align="center">
+    <a herf="https://www.facebook.com/Xuatthaq/"> <img src="https://api.iconify.design/logos/facebook.svg" alt="logos:facebook" height="32" /></a>
     <img width="10" />
     <img src="https://api.iconify.design/devicon/linkedin.svg" alt="devicon:linkedin" height="32" />
     <img width="10" />
