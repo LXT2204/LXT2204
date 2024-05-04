@@ -8,11 +8,13 @@
     
 </h3>
 <div align="center">
-    <a herf="https://www.facebook.com/Xuatthaq/"> <img src="https://api.iconify.design/logos/facebook.svg" alt="logos:facebook" height="32" /></a>
-    <img width="10" />
-    <img src="https://api.iconify.design/devicon/linkedin.svg" alt="devicon:linkedin" height="32" />
-    <img width="10" />
-    <img src="https://api.iconify.design/skill-icons/gmail-light.svg" alt="skill-icons:gmail-light" height="32" />
+    <a href="https://fb.com/pth.1641">
+    <img  style ="margin-right: 10px" src="https://api.iconify.design/logos/facebook.svg" alt="logos:facebook" height="32"/> </a>
+    <a href="https://www.linkedin.com/in/l%C3%AA-xu%C3%A2n-th%E1%BA%A1ch-805900249/">
+    <img src="https://api.iconify.design/devicon/linkedin.svg" alt="devicon:linkedin" height="32" /> </a>
+    <a href="https://www.linkedin.com/in/l%C3%AA-xu%C3%A2n-th%E1%BA%A1ch-805900249/">
+     <img src="https://api.iconify.design/skill-icons/gmail-light.svg" alt="skill-icons:gmail-light" height="32" />
+     </a>
 </div>
 <h1 align="left">
     
