@@ -70,7 +70,7 @@
     <img src="https://readme-typing-svg.demolab.com?fontSize=20&repeat=false&multiline=false&duration=5000&color=%2336bcf7ff&background=%2300000000&pause=1000&width=140&height=50&font=Fira+Code&lines=%E2%9C%8D%EF%B8%8FDev+Quote&vCenter=true&size=20" alt="" />
 </div>
 <div align="center">
-      <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight&border=true&type=horizontal?quote=my quote" alt="" />
+      <img src="https://quotes-github-readme.vercel.app/api?quote=Never%20too%20late%20to%20start&theme=tokyonight&border=true&type=vertical" alt="" />
 </div>
 <h1 align="left">
     
