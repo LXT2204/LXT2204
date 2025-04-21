@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=LXT2204&label=&pretty=true" />
-</div>
+
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?color=timeGradient&type=waving&section=footer&fontColor=36bcf7ff&height=120&animation=fadeIn&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=&strokeWidth=0&text=L%C3%AA+Xu%C3%A2n+Th%E1%BA%A1ch&reversal=true&theme=tokyonight" alt="" />
 </div>
