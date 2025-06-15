@@ -1,10 +1,24 @@
 
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?color=timeGradient&type=waving&section=footer&fontColor=36bcf7ff&height=120&animation=fadeIn&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=&strokeWidth=0&text=L%C3%AA+Xu%C3%A2n+Th%E1%BA%A1ch&reversal=true&theme=tokyonight" alt="" />
-</div>
-<h3 align="left">
+<h1 align="center">Hi there, I'm Thạch 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer+%26+DevOps+Engineer;From+Vietnam+🇻🇳&center=true&width=420&height=45">
+</p>
     
 </h3>
+<p align="center">
+  <a href="https://github.com/LXT2204">
+    <img src="https://img.shields.io/github/followers/LXT2204?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
+  </a>
+  <img src="https://img.shields.io/github/stars/LXT2204?label=Stars&logo=GitHub&style=for-the-badge" alt="GitHub Stars" />
+  <a href="https://www.instagram.com/xuatthaq_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Followers" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LXT2204&label=Profile%20views&color=0e75b6&style=flat" alt="LXT2204" />
+</p>
 <div align="center">
     <a href="https://www.facebook.com/Xuatthaq/">
     <img  src="https://api.iconify.design/logos/facebook.svg" alt="logos:facebook" height="32"/> </a>
@@ -13,8 +27,8 @@
     <img src="https://api.iconify.design/devicon/linkedin.svg" alt="devicon:linkedin" height="32" /> </a>
     <img width="10" />
     <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfpsJCfHbCDrXHtXdFMqCKMGpzLxhqChXxMGkWkjzNQxxzXqHZQlDCBjGBLTGwSXZKDNJB">
-     <img src="https://api.iconify.design/skill-icons/gmail-light.svg" alt="skill-icons:gmail-light" height="32" />
-     </a>
+    <img src="https://api.iconify.design/skill-icons/gmail-light.svg" alt="skill-icons:gmail-light" height="32" />
+    </a>
 </div>
 <h1 align="left">
     
@@ -65,10 +79,10 @@
     
 </h1>
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?fontSize=20&repeat=false&multiline=false&duration=5000&color=%2336bcf7ff&background=%2300000000&pause=1000&width=140&height=50&font=Fira+Code&lines=%E2%9C%8D%EF%B8%8FDev+Quote&vCenter=true&size=20" alt="" />
+    <img src="https://readme-typing-svg.demolab.com?fontSize=20&repeat=false&multiline=false&duration=5000&color=%2336bcf7ff&background=%2300000000&pause=1000&width=140&height=50&font=Fira+Code&lines=%E2%9C%8D%EF%B8%8FMy+Quote&vCenter=true&size=20" alt="" />
 </div>
 <div align="center">
-      <img src="https://quotes-github-readme.vercel.app/api?quote=Never%20too%20late%20to%20start&theme=tokyonight&border=true&type=vertical" alt="" />
+      <img src="https://quotes-github-readme.vercel.app/api?quote=The%20best%20way%20to%20predict%20the%20future%20%20is%20to%20invent%20it.&theme=tokyonight&border=true&type=vertical&author=Alan%20Kay" alt="" />
 </div>
 <h1 align="left">
     
